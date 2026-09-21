@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# 👋 Bonjour, je suis Aminatou Binetou Wahab NDIAYE
+#  Bonjour, je suis Aminatou Binetou Wahab NDIAYE
 
-### 📊 Data Analyst | Data Scientist | Développeuse en Intelligence Artificielle
+###  Data Analyst | Data Scientist | Développeuse en Intelligence Artificielle
 
 <p>
   <em>
@@ -157,20 +157,6 @@ Modélisation des systèmes informatiques
 
 ## 🚀 Quelques projets
 
-### 🍕 SAMA RESTO
-
-<p>
-Application mobile de restauration développée avec
-<strong>Flutter et Firebase</strong>.
-</p>
-
-<p>
-Flutter · Dart · Firebase · Firestore
-</p>
-
-<br>
-
----
 
 ### 🖼️ Préparation de données images
 
