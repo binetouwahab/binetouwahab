@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# 👋 Bonjour, je suis Binetou Wahab
+# 👋 Bonjour, je suis Aminatou Binetou Wahab NDIAYE
 
-### 💻 Développeuse Web · 🤖 Intelligence Artificielle · 📊 Data
+### 💻 Data Analyst | Data Scientist | Développeuse Intelligence Artificielle 
 
 <p>
   <em>
@@ -106,16 +106,6 @@ Modélisation des systèmes informatiques**
 
 Application mobile de restauration développée avec **Flutter et Firebase**.
 
-**Fonctionnalités / technologies :**
-
-- 📱 Flutter & Dart
-- 🔥 Firebase
-- 🗄️ Cloud Firestore
-- 🛒 Gestion du panier
-- 🍔 Gestion des catégories et produits
-- 📦 Gestion des commandes
-
----
 
 ### 🖼️ Préparation de données images
 
