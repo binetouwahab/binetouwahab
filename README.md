@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C542&center=true&vCenter=true&width=650&lines=D%C3%A9veloppement+Web+%7C+IA+%7C+Data;Machine+Learning+%7C+Deep+Learning;Flutter+%7C+Firebase;Construire.+Apprendre.+Exp%C3%A9rimenter.+Innover." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C542&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+D%C3%A9veloppeuse+en+Intelligence+Artificielle;Data+Analysis+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Construire.+Apprendre.+Exp%C3%A9rimenter.+Innover." alt="Typing SVG" />
 
 </div>
 
