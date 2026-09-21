@@ -6,18 +6,23 @@
 
 # 👋 Bonjour, je suis Aminatou Binetou Wahab NDIAYE
 
-### 💻 Data Analyst | Data Scientist | Développeuse Intelligence Artificielle 
+### 📊 Data Analyst | Data Scientist | Développeuse en Intelligence Artificielle
 
 <p>
   <em>
-    Je conçois des applications, j'explore l'Intelligence Artificielle
-    et je transforme les données en solutions utiles.
+    Je conçois des solutions basées sur les données, j'explore
+    l'Intelligence Artificielle et je transforme les données en solutions utiles.
   </em>
 </p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C542&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+D%C3%A9veloppeuse+en+Intelligence+Artificielle;Data+Analysis+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Construire.+Apprendre.+Exp%C3%A9rimenter.+Innover." alt="Typing SVG" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C542&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Data+Scientist;Intelligence+Artificielle+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Construire.+Apprendre.+Exp%C3%A9rimenter.+Innover."
+    alt="Typing SVG"
+  />
+</p>
 
 </div>
 
@@ -27,24 +32,40 @@
 <!--                    ABOUT ME                           -->
 <!-- ===================================================== -->
 
+<div align="center">
+
 ## 👩🏾‍💻 À propos de moi
 
-Je suis une **développeuse passionnée par le développement web, 
-l'Intelligence Artificielle et la gestion des données**.
+<p>
+Je suis une <strong>Data Analyst et développeuse en Intelligence Artificielle</strong>,
+passionnée par les données, le Machine Learning et le développement de solutions intelligentes.
+</p>
 
-J'aime concevoir des solutions numériques, résoudre des problèmes
-et découvrir continuellement de nouvelles technologies.
+<p>
+J'aime analyser les données, résoudre des problèmes et découvrir continuellement
+de nouvelles technologies afin de créer des solutions utiles et innovantes.
+</p>
 
-Mon parcours m'amène à travailler à la fois sur :
+<br>
 
-- 🌐 le développement d'applications web
-- 🤖 l'Intelligence Artificielle et le Machine Learning
-- 📊 l'analyse et la préparation des données
-- 📱 le développement d'applications mobiles
-- 🗄️ la conception et la gestion des bases de données
-- 🧩 la modélisation et le développement logiciel
+<p>
+📊 <strong>Analyse de données</strong> &nbsp; • &nbsp;
+🤖 <strong>Intelligence Artificielle</strong> &nbsp; • &nbsp;
+🧠 <strong>Machine Learning</strong> &nbsp; • &nbsp;
+🔬 <strong>Deep Learning</strong>
+</p>
+
+<p>
+📝 <strong>NLP</strong> &nbsp; • &nbsp;
+🗄️ <strong>Bases de données</strong> &nbsp; • &nbsp;
+💻 <strong>Développement logiciel</strong>
+</p>
+
+<br>
 
 > **Construire. Apprendre. Expérimenter. Innover.**
+
+</div>
 
 ---
 
@@ -52,47 +73,79 @@ Mon parcours m'amène à travailler à la fois sur :
 <!--                  TECHNOLOGIES                         -->
 <!-- ===================================================== -->
 
+<div align="center">
+
 ## 🛠️ Technologies & compétences
-
-### 🌐 Développement Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,bootstrap,wordpress" />
-</p>
 
 ### 🤖 Intelligence Artificielle & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-**Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn ·
-Machine Learning · Deep Learning**
+<p>
+<strong>
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+</strong>
+</p>
+
+<p>
+Machine Learning · Deep Learning · NLP · Analyse de données
+</p>
+
+<br>
+
+### 🌐 Développement Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,bootstrap,wordpress" />
+</p>
+
+<br>
 
 ### 📱 Mobile & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
+
+<br>
 
 ### 🗄️ Bases de données
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**SQL · MySQL · MongoDB · phpMyAdmin · Firestore**
+<p>
+<strong>
+SQL · MySQL · MongoDB · phpMyAdmin · Firestore
+</strong>
+</p>
+
+<br>
 
 ### 🧩 Modélisation & développement logiciel
 
-**Programmation Orientée Objet · UML · Merise ·
-Modélisation des systèmes informatiques**
+<p>
+<strong>
+Programmation Orientée Objet · UML · Merise
+</strong>
+</p>
+
+<p>
+Modélisation des systèmes informatiques
+</p>
+
+<br>
 
 ### 🛠️ Outils & environnements
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,vscode" />
 </p>
+
+</div>
 
 ---
 
@@ -100,58 +153,89 @@ Modélisation des systèmes informatiques**
 <!--                     PROJETS                           -->
 <!-- ===================================================== -->
 
+<div align="center">
+
 ## 🚀 Quelques projets
 
 ### 🍕 SAMA RESTO
 
-Application mobile de restauration développée avec **Flutter et Firebase**.
+<p>
+Application mobile de restauration développée avec
+<strong>Flutter et Firebase</strong>.
+</p>
 
+<p>
+Flutter · Dart · Firebase · Firestore
+</p>
+
+<br>
+
+---
 
 ### 🖼️ Préparation de données images
 
+<p>
 Projet de préparation et de nettoyage d'un dataset
-pour la **classification d'images**.
+pour la <strong>classification d'images</strong>.
+</p>
 
-Travail réalisé autour de :
+<p>
+🔍 Détection des images corrompues &nbsp; • &nbsp;
+🧹 Nettoyage &nbsp; • &nbsp;
+📐 Redimensionnement
+</p>
 
-- 🔍 Détection des images corrompues
-- 🧹 Nettoyage des données
-- 📐 Uniformisation des dimensions
-- 🎨 Conversion RGB
-- 🔢 Normalisation des pixels
-- ♻️ Détection des doublons
-- 📊 Analyse des classes
-- 🧠 Préparation pour le Machine Learning
+<p>
+🎨 Conversion RGB &nbsp; • &nbsp;
+🔢 Normalisation &nbsp; • &nbsp;
+♻️ Détection des doublons
+</p>
 
-**Technologies :**
+<p>
+<strong>Python · Pillow · NumPy · Pandas · Matplotlib</strong>
+</p>
 
-`Python` `Pillow` `NumPy` `Pandas` `Matplotlib`
+<br>
 
 ---
 
 ### 📝 Préparation de données textuelles — NLP
 
+<p>
 Projet de préparation d'un corpus de commentaires
-pour la **classification de sentiments**.
+pour la <strong>classification de sentiments</strong>.
+</p>
 
-Travail autour de :
+<p>
+🔍 Exploration &nbsp; • &nbsp;
+🧹 Nettoyage &nbsp; • &nbsp;
+🔤 Normalisation &nbsp; • &nbsp;
+✂️ Tokenisation
+</p>
 
-- 🔍 Exploration du corpus
-- 🧹 Nettoyage des textes
-- 🔤 Normalisation
-- ✂️ Tokenisation
-- 📊 Bag of Words
-- 📈 TF-IDF
-- 🔠 Unigrams & Bigrams
-- 🤖 Préparation pour le Machine Learning
+<p>
+📊 Bag of Words &nbsp; • &nbsp;
+📈 TF-IDF &nbsp; • &nbsp;
+🔠 Unigrams & Bigrams
+</p>
 
-**Technologies :**
+<p>
+<strong>Python · Pandas · Scikit-learn · NLP</strong>
+</p>
 
-`Python` `Pandas` `Scikit-learn` `NLP`
+</div>
 
 ---
 
+<!-- ===================================================== -->
+<!--                 CURRENTLY LEARNING                    -->
+<!-- ===================================================== -->
+
+<div align="center">
+
 ## 🧠 Ce que j'apprends actuellement
+
+<br>
 
 ```text
 Machine Learning
