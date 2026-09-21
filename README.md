@@ -6,7 +6,7 @@
 
 #  Bonjour, je suis Aminatou Binetou Wahab NDIAYE
 
-###  Data Analyst | Data Scientist | Développeuse en Intelligence Artificielle
+###  Data Scientist | Développeuse en Intelligence Artificielle
 
 <p>
   <em>
