@@ -34,8 +34,8 @@
 
 <a href="https://github.com/binetouwahab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ton.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wa.me/221XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:aminatoubinetouwahabndiaye@esp.sn"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/221773102331"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://www.kaggle.com/aminatoubinetouwn"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="https://TON-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-F5C542?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 
@@ -223,10 +223,10 @@ Préparation d'un corpus de commentaires pour la **classification de sentiments*
 
 ```mermaid
 flowchart LR
-    A[" Machine Learning"] --> B[" Deep Learning"]
-    B --> C[" NLP"]
-    C --> D[" Data Analysis"]
-    D --> E[" Applications intelligentes"]
+    A["Machine Learning"] --> B["Deep Learning"]
+    B --> C["NLP"]
+    C --> D["Data Analysis"]
+    D --> E["Applications intelligentes"]
     style A fill:#F5C542,stroke:#333,color:#000
     style B fill:#F5C542,stroke:#333,color:#000
     style C fill:#F5C542,stroke:#333,color:#000
