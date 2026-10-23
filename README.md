@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ton.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/221XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://www.kaggle.com/https:/aminatoubinetouwn"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://www.kaggle.com/aminatoubinetouwn"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="https://TON-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-F5C542?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 
 </div>
@@ -63,9 +63,9 @@ de nouvelles technologies afin de créer des solutions <strong>utiles et innovan
 
 <div align="center">
 
-| 📊 Analyse de données | 🤖 Intelligence Artificielle | 🧠 Machine Learning | 🔬 Deep Learning |
+|  Analyse de données |  Intelligence Artificielle |  Machine Learning |  Deep Learning |
 |:---:|:---:|:---:|:---:|
-| **📝 NLP** | **🗄️ Bases de données** | **💻 Développement logiciel** | **🧩 Modélisation UML / Merise** |
+| ** NLP** | ** Bases de données** | ** Développement logiciel** | ** Modélisation UML / Merise** |
 
 <br>
 
@@ -81,9 +81,9 @@ de nouvelles technologies afin de créer des solutions <strong>utiles et innovan
 
 <div align="center">
 
-## 🛠️ Technologies & compétences
+##  Technologies & compétences
 
-### 🤖 Intelligence Artificielle & Data
+###  Intelligence Artificielle & Data
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&perline=5" alt="IA et Data" />
 
@@ -93,19 +93,19 @@ de nouvelles technologies afin de créer des solutions <strong>utiles et innovan
 
 <br><br>
 
-### 🌐 Développement Web
+###  Développement Web
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,bootstrap,wordpress" alt="Web" />
 
 <br><br>
 
-### 📱 Mobile & Backend
+###  Mobile & Backend
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Mobile et Backend" />
 
 <br><br>
 
-### 🗄️ Bases de données
+###  Bases de données
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bases de données" />
 
@@ -113,7 +113,7 @@ de nouvelles technologies afin de créer des solutions <strong>utiles et innovan
 
 <br><br>
 
-### 🧩 Modélisation & développement logiciel
+###  Modélisation & développement logiciel
 
 <sub><b>Programmation Orientée Objet · UML · Merise</b></sub>
 <br>
@@ -121,7 +121,7 @@ de nouvelles technologies afin de créer des solutions <strong>utiles et innovan
 
 <br><br>
 
-### ⚙️ Outils & environnements
+###  Outils & environnements
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,vscode" alt="Outils" />
 
@@ -135,7 +135,7 @@ de nouvelles technologies afin de créer des solutions <strong>utiles et innovan
 
 <div align="center">
 
-## 🚀 Quelques projets
+##  Quelques projets
 
 </div>
 
@@ -143,16 +143,16 @@ de nouvelles technologies afin de créer des solutions <strong>utiles et innovan
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ Préparation de données images
+###  Préparation de données images
 
 Nettoyage et préparation d'un dataset pour la **classification d'images**.
 
-- 🔍 Détection des images corrompues
-- 🧹 Nettoyage
-- 📐 Redimensionnement
-- 🎨 Conversion RGB
-- 🔢 Normalisation
-- ♻️ Détection des doublons
+-  Détection des images corrompues
+-  Nettoyage
+-  Redimensionnement
+-  Conversion RGB
+-  Normalisation
+-  Détection des doublons
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-F5C542?style=flat-square)
@@ -165,16 +165,16 @@ Nettoyage et préparation d'un dataset pour la **classification d'images**.
 </td>
 <td width="50%" valign="top">
 
-### 📝 Préparation de données textuelles — NLP
+###  Préparation de données textuelles — NLP
 
 Préparation d'un corpus de commentaires pour la **classification de sentiments**.
 
-- 🔍 Exploration
-- 🧹 Nettoyage
-- 🔤 Normalisation
-- ✂️ Tokenisation
-- 📊 Bag of Words
-- 📈 TF-IDF · 🔠 Unigrams & Bigrams
+-  Exploration
+-  Nettoyage
+-  Normalisation
+-  Tokenisation
+-  Bag of Words
+-  TF-IDF ·  Unigrams & Bigrams
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -195,7 +195,7 @@ Préparation d'un corpus de commentaires pour la **classification de sentiments*
 
 <div align="center">
 
-## 📊 Mes statistiques GitHub
+## Mes statistiques GitHub
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=binetouwahab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C542&icon_color=F5C542&text_color=C9D1D9&count_private=true&locale=fr" alt="Stats GitHub" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binetouwahab&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C542&text_color=C9D1D9&langs_count=8&locale=fr" alt="Langages les plus utilisés" />
@@ -206,11 +206,6 @@ Préparation d'un corpus de commentaires pour la **classification de sentiments*
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=binetouwahab&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophées" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binetouwahab&bg_color=0D1117&color=F5C542&line=F5C542&point=FFFFFF&area=true&area_color=F5C542&hide_border=true&custom_title=Activit%C3%A9%20des%20contributions" width="100%" alt="Graphique d'activité" />
 
 </div>
 
@@ -222,16 +217,16 @@ Préparation d'un corpus de commentaires pour la **classification de sentiments*
 
 <div align="center">
 
-## 🧠 Ce que j'apprends actuellement
+## Ce que j'apprends actuellement
 
 </div>
 
 ```mermaid
 flowchart LR
-    A["🧠 Machine Learning"] --> B["🔬 Deep Learning"]
-    B --> C["📝 NLP"]
-    C --> D["📊 Data Analysis"]
-    D --> E["🚀 Applications intelligentes"]
+    A[" Machine Learning"] --> B[" Deep Learning"]
+    B --> C[" NLP"]
+    C --> D[" Data Analysis"]
+    D --> E[" Applications intelligentes"]
     style A fill:#F5C542,stroke:#333,color:#000
     style B fill:#F5C542,stroke:#333,color:#000
     style C fill:#F5C542,stroke:#333,color:#000
@@ -253,9 +248,9 @@ flowchart LR
 
 <br><br>
 
-### 💬 Parlons data, IA et innovation !
+### Parlons data, IA et innovation !
 
-<a href="mailto:ton.email@gmail.com"><img src="https://img.shields.io/badge/Me%20contacter-F5C542?style=for-the-badge&logo=maildotru&logoColor=black" alt="Me contacter" /></a>
+<a href="mailto:ton.aminatoubinetouwahabndiaye@esp.sn"><img src="https://img.shields.io/badge/Me%20contacter-F5C542?style=for-the-badge&logo=maildotru&logoColor=black" alt="Me contacter" /></a>
 
 </div>
 
