@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Aminatou%20Binetou%20Wahab%20NDIAYE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20D%C3%A9veloppeuse%20en%20Intelligence%20Artificielle&descSize=20&descAlignY=58" width="100%" alt="Banière" />
 
 <!-- Texte qui s'écrit tout seul -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C542&center=true&vCenter=true&width=700&height=50&lines=Bonjour+%F0%9F%91%8B+je+suis+Aminatou;Data+Analyst+%7C+Data+Scientist;Intelligence+Artificielle+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Construire.+Apprendre.+Exp%C3%A9rimenter.+Innover." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C542&center=true&vCenter=true&width=700&height=50&lines=Bonjour+je+suis+Aminatou;Data+Analyst+%7C+Data+Scientist;Intelligence+Artificielle+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Construire.+Apprendre.+Exp%C3%A9rimenter.+Innover." alt="Typing SVG" />
 
 <br>
 
@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ton.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/221XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://www.kaggle.com/TON-PSEUDO"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://www.kaggle.com/https:/aminatoubinetouwn"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="https://TON-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-F5C542?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 
 </div>
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-## 👩🏾‍💻 À propos de moi
+##  À propos de moi
 
 </div>
 
