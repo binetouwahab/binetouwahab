@@ -18,7 +18,7 @@
 <br><br>
 
 <!-- Compteur de visites -->
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=VISITEURS&color=F5C542&style=for-the-badge" alt="Compteur de visites" />
+<img src="https://komarev.com/ghpvc/?username=binetouwahab&label=VISITEURS&color=F5C542&style=for-the-badge" alt="Compteur de visites" />
 <img src="https://img.shields.io/badge/Bas%C3%A9e%20%C3%A0-Dakar%2C%20S%C3%A9n%C3%A9gal-F5C542?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Localisation" />
 <img src="https://img.shields.io/badge/Disponible-Stage%20%7C%20Projets-2ea44f?style=for-the-badge" alt="Disponibilité" />
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/binetouwahab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ton.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/221XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -160,7 +160,7 @@ Nettoyage et préparation d'un dataset pour la **classification d'images**.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-<a href="https://github.com/USERNAME/NOM-DU-REPO-IMAGES"><img src="https://img.shields.io/badge/Voir%20le%20projet-%E2%86%92-F5C542?style=for-the-badge" alt="Voir le projet" /></a>
+<a href="https://github.com/binetouwahab/NOM-DU-REPO-IMAGES"><img src="https://img.shields.io/badge/Voir%20le%20projet-%E2%86%92-F5C542?style=for-the-badge" alt="Voir le projet" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -181,7 +181,7 @@ Préparation d'un corpus de commentaires pour la **classification de sentiments*
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
 
-<a href="https://github.com/USERNAME/NOM-DU-REPO-NLP"><img src="https://img.shields.io/badge/Voir%20le%20projet-%E2%86%92-F5C542?style=for-the-badge" alt="Voir le projet" /></a>
+<a href="https://github.com/binetouwahab/NOM-DU-REPO-NLP"><img src="https://img.shields.io/badge/Voir%20le%20projet-%E2%86%92-F5C542?style=for-the-badge" alt="Voir le projet" /></a>
 
 </td>
 </tr>
@@ -197,20 +197,20 @@ Préparation d'un corpus de commentaires pour la **classification de sentiments*
 
 ## 📊 Mes statistiques GitHub
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C542&icon_color=F5C542&text_color=C9D1D9&count_private=true&locale=fr" alt="Stats GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C542&text_color=C9D1D9&langs_count=8&locale=fr" alt="Langages les plus utilisés" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=binetouwahab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C542&icon_color=F5C542&text_color=C9D1D9&count_private=true&locale=fr" alt="Stats GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binetouwahab&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C542&text_color=C9D1D9&langs_count=8&locale=fr" alt="Langages les plus utilisés" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&hide_border=true&background=0D1117&ring=F5C542&fire=F5C542&currStreakLabel=F5C542&locale=fr" alt="Série de contributions" />
+<img src="https://streak-stats.demolab.com?user=binetouwahab&theme=dark&hide_border=true&background=0D1117&ring=F5C542&fire=F5C542&currStreakLabel=F5C542&locale=fr" alt="Série de contributions" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophées" />
+<img src="https://github-profile-trophy.vercel.app/?username=binetouwahab&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophées" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=F5C542&line=F5C542&point=FFFFFF&area=true&area_color=F5C542&hide_border=true&custom_title=Activit%C3%A9%20des%20contributions" width="100%" alt="Graphique d'activité" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binetouwahab&bg_color=0D1117&color=F5C542&line=F5C542&point=FFFFFF&area=true&area_color=F5C542&hide_border=true&custom_title=Activit%C3%A9%20des%20contributions" width="100%" alt="Graphique d'activité" />
 
 </div>
 
@@ -246,9 +246,9 @@ flowchart LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binetouwahab/binetouwahab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binetouwahab/binetouwahab/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/binetouwahab/binetouwahab/output/github-snake-dark.svg" />
 </picture>
 
 <br><br>
