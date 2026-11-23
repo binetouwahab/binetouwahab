@@ -223,15 +223,22 @@ Préparation d'un corpus de commentaires pour la **classification de sentiments*
 
 ```mermaid
 flowchart LR
-    A["Machine Learning"] --> B["Deep Learning"]
-    B --> C["NLP"]
-    C --> D["Data Scientist"]
+    A["Intelligence Artificielle (IA)"] --> B["Machine Learning"]
+    B --> C["Deep Learning"]
+    B --> D["NLP"]
+    C --> D
     D --> E["Applications intelligentes"]
+
+    F["Data Scientist"] --> B
+    F --> C
+    F --> D
+
     style A fill:#F5C542,stroke:#333,color:#000
     style B fill:#F5C542,stroke:#333,color:#000
     style C fill:#F5C542,stroke:#333,color:#000
     style D fill:#F5C542,stroke:#333,color:#000
     style E fill:#2ea44f,stroke:#333,color:#fff
+    style F fill:#F5C542,stroke:#333,color:#000
 ```
 
 <!-- ===================================================== -->
