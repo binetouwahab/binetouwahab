@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Aminatou%20Binetou%20Wahab%20NDIAYE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20D%C3%A9veloppeuse%20en%20Intelligence%20Artificielle&descSize=20&descAlignY=58" width="100%" alt="Banière" />
 
 <!-- Texte qui s'écrit tout seul -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C542&center=true&vCenter=true&width=700&height=50&lines=Bonjour+je+suis+Aminatou;Data+Analyst+%7C+Data+Scientist;Intelligence+Artificielle+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Construire.+Apprendre.+Exp%C3%A9rimenter.+Innover." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C542&center=true&vCenter=true&width=700&height=50&lines=Bonjour+je+suis+Aminatou;Data+Scientist;Intelligence+Artificielle+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Construire.+Apprendre.+Exp%C3%A9rimenter.+Innover" alt="Typing SVG" />
 
 <br>
 
@@ -54,7 +54,7 @@
 </div>
 
 <p align="center">
-Je suis une <strong>Data Analyst et développeuse en Intelligence Artificielle</strong>,
+Je suis une <strong>Data Scientist et développeuse en Intelligence Artificielle</strong>,
 passionnée par les données, le Machine Learning et le développement de solutions intelligentes.
 <br><br>
 J'aime analyser les données, résoudre des problèmes et découvrir continuellement
@@ -225,7 +225,7 @@ Préparation d'un corpus de commentaires pour la **classification de sentiments*
 flowchart LR
     A["Machine Learning"] --> B["Deep Learning"]
     B --> C["NLP"]
-    C --> D["Data Analysis"]
+    C --> D["Data Scientist"]
     D --> E["Applications intelligentes"]
     style A fill:#F5C542,stroke:#333,color:#000
     style B fill:#F5C542,stroke:#333,color:#000
