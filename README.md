@@ -160,7 +160,7 @@ Nettoyage et préparation d'un dataset pour la **classification d'images**.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-<a href="https://github.com/binetouwahab/NOM-DU-REPO-IMAGES"><img src="https://img.shields.io/badge/Voir%20le%20projet-%E2%86%92-F5C542?style=for-the-badge" alt="Voir le projet" /></a>
+<!-- <a href="https://github.com/binetouwahab/NOM-DU-REPO-IMAGES"><img src="https://img.shields.io/badge/Voir%20le%20projet-%E2%86%92-F5C542?style=for-the-badge" alt="Voir le projet" /></a> -->
 
 </td>
 <td width="50%" valign="top">
@@ -181,7 +181,7 @@ Préparation d'un corpus de commentaires pour la **classification de sentiments*
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
 
-<a href="https://github.com/binetouwahab/NOM-DU-REPO-NLP"><img src="https://img.shields.io/badge/Voir%20le%20projet-%E2%86%92-F5C542?style=for-the-badge" alt="Voir le projet" /></a>
+<!-- <a href="https://github.com/binetouwahab/NOM-DU-REPO-NLP"><img src="https://img.shields.io/badge/Voir%20le%20projet-%E2%86%92-F5C542?style=for-the-badge" alt="Voir le projet" /></a> -->
 
 </td>
 </tr>
